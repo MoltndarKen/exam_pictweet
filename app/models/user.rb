@@ -11,3 +11,4 @@ class User < ActiveRecord::Base
     tweets.count
   end
 end
+
